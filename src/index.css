@@ -20,7 +20,7 @@ body {
 .simple-trans-main > div {
   cursor: pointer;
   position: absolute;
-  width: 100%;
+  width: 100vw;
   height: 40%;
   display: flex;
   justify-content: center;
