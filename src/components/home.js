@@ -7,7 +7,7 @@ const pages = [
     ({ style }) => <animated.div style={{ ...style, background: 'black', color: 'white' }}>WEB-DEVELOPER</animated.div>,
     ({ style }) => <animated.div style={{ ...style, background: 'white', color: 'black' }}>VUE ENTHUSIAST</animated.div>,
     ({ style }) => <animated.div style={{ ...style, background: 'black', color: 'white' }}>ANIMATION ADICT</animated.div>,
-    ({ style }) => <animated.div style={{ ...style, background: 'white', color: 'black' }}>YOUR NEW WEB-DEV<span className='hopefully'><br />(hopefully)</span></animated.div>
+    ({ style }) => <animated.div style={{ ...style, background: 'white', color: 'black' }}>YOUR NEW WEB-DEV</animated.div>
 ]
 
 export default function Home() {
