@@ -47,6 +47,7 @@ body {
   animation-duration: 1000s;
   animation-delay: 5s;
   opacity: 0;
+  left: calc(50vw - 50px);
 }
 
 .main-img {
